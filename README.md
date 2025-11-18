@@ -38,7 +38,7 @@ Bot helps to generate photo sharing links quickly and for free. Upload photos an
 ➼ 📱 **Multi-platform support** ➣ Discord, Telegram, Web (depending on your bot)
 ➼ 🔒 **Security** ➣ Photos are stored securely
 ➼ 💾 **Multi-format** ➣ Supports JPG, PNG, GIF, WEBP
-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•
+•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-•-
 ## 🎯 tutorial
 
 ### In Discord
