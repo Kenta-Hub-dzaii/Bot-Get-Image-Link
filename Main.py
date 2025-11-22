@@ -107,9 +107,9 @@ REPORT_CHANNEL_ID = os.getenv('REPORT_CHANNEL_ID')
 TCOIN_WEB_URL = os.getenv('TCOIN_WEB_URL', 'https://your-tcoin-website.com')
 
 # GIF URLs
-UPLOADING_GIF = "https://i.ibb.co/HfKcS6fC/tickred-gif.gif"
+UPLOADING_GIF = "https://i.ibb.co/PG7Q9wFx/Error-gif.gif"
 SUCCESS_GIF = "https://i.ibb.co/Dg6FwFfg/verifier-gif.gif"
-ERROR_GIF = "https://i.ibb.co/PG7Q9wFx/Error-gif.gif"
+ERROR_GIF = "https://i.ibb.co/HfKcS6fC/tickred-gif.gif"
 WARNING_GIF = "https://media.giphy.com/media/l0HU7JI1m1eEwz7K8/giphy.gif"
 
 class ImgBBUploader:
